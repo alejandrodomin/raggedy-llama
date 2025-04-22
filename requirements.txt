@@ -1,0 +1,7 @@
+# rag library
+faiss-cpu
+langchain-community
+
+# ai libraries
+llama-cpp-python
+langchain-nomic
